@@ -1,0 +1,4 @@
+0 1,1,R,0|+,1,R,1 false
+1 1,1,R,1|_,_,L,2 false
+2 1,_,R,3 false
+3 - true

@@ -1,0 +1,13 @@
+0 a,x,R,1 false
+1 a,a,R,1|b,b,R,2 false
+2 a,y,L,3|b,b,R,2 false
+3 b,y,R,5|y,y,R,3|a,y,L,4 false
+4 y,y,L,4|b,y,R,5 false
+5 y,y,R,5|a,y,L,4|b,x,L,6 false
+6 a,a,L,6|y,y,L,6|x,x,R,7 false
+7 a,x,R,8|y,y,R,7|x,x,R,11 false
+8 x,x,R,8|y,y,R,8|a,a,R,8|b,x,L,9 false
+9 x,x,L,9|y,y,L,10 false
+10 y,y,L,10|a,a,L,6|x,x,R,11 false
+11 y,y,R,11|x,x,R,11|_,_,R,12 false
+12 - true

@@ -1,0 +1,4 @@
+0 y,y,R,0|a,x,R,1|_,_,L,3 false
+1 a,a,R,1|y,y,R,1|b,y,L,2 false
+2 a,a,L,2|y,y,L,2|x,x,R,0 false
+3 - true
